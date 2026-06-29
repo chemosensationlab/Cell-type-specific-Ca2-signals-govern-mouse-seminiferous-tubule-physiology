@@ -1,5 +1,5 @@
 This repostory is the codebase for the publication "Cell type specific Ca2 signals govern mouse seminiferous tubule physiology" by Justine A. Fischoeder, David Fleck, Jerome Schröer, Christopher Wiesbrock, Lina
-Kenzler, Christoph Weber-Hamacher, Ilian Schröder, Melissa Franke, Stefanie Kurth, Martin Strauch, Guiscard Seebohm4, Johannes Stegmaier, Naofumi Uesaka6, Jennifer Spehr, Marc Spehr
+Kenzler, Christoph Weber-Hamacher, Ilian Schröder, Melissa Franke, Stefanie Kurth, Martin Strauch, Guiscard Seebohm, Johannes Stegmaier, Naofumi Uesaka, Jennifer Spehr, Marc Spehr
 
 ## Fiji/ImageJ Macro
 
